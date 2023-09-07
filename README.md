@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://drive.google.com/file/d/1k5sPiwfHTCeqAFuj2Ty211UTO8HUMy2X/view)](github.com/imdeveshshukla)
+[![MasterHead](banner.png)](github.com/imdeveshshukla)
 <!--
 **imdeveshshukla/imdeveshshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
