@@ -1,7 +1,5 @@
 [![MasterHead](banner2.png)](https://imdeveshshukla.github.io/aboutme/)
-<p align="center">
-   "I'm not a ninja, a rockstar, or a wizard - I'm just a humble web developer trying to make the internet a better place, one line of code at a time.
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/imdeveshshukl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
