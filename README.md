@@ -12,7 +12,7 @@
    </p>
 <h3 align="left">My Github Stats:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imdeveshshukla&theme=navy-gear&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imdeveshshukla&theme=python-dark&border_radius=5.1&card_width=1000)](https://git.io/streak-stats)
 <!--
 **imdeveshshukla/imdeveshshukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
